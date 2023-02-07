@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# EXAMPLE: http://miguelaoz.atwebpages.com/freecodecamp/25+5clock/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
